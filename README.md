@@ -10,11 +10,11 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JvDevDev&layout=compact&theme=bear)](https://github.com/JvDevDev/github-readme-stats)
 
 <br>
-  <a href="https://www.instagram.com/cloudcrycoding/" target="_blank" rel=”noopener”>
+  <a href="https://www.instagram.com/manifesto.inconsequente" target="_blank" rel=”noopener”>
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href = "mailto:cloudcryy@gmail.com" target="_blank" rel=”noopener”>
+  <a href = "mailto:jvhc3002@gmail.com" target="_blank" rel=”noopener”>
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/cloudcry/" target="_blank" rel=”noopener”>
+  <a href="https://www.linkedin.com/in/JvDevDev/" target="_blank" rel=”noopener”>
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
