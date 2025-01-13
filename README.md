@@ -5,9 +5,9 @@
 <br>
 <div align=center>
   
-  [![Cloud GitHub stats](https://github-readme-stats.vercel.app/api?username=CloudCryyy&show_icons=true&theme=bear&rank_icon=github)](https://github.com/CloudCryyy/github-readme-stats)
+  [![Cloud GitHub stats](https://github-readme-stats.vercel.app/api?username=JvDevDev&show_icons=true&theme=bear&rank_icon=github)](https://github.com/JvDevDev/github-readme-stats)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CloudCryyy&layout=compact&theme=bear)](https://github.com/CloudCryyy/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JvDevDev&layout=compact&theme=bear)](https://github.com/JvDevDev/github-readme-stats)
 
 <br>
   <a href="https://www.instagram.com/cloudcrycoding/" target="_blank" rel=”noopener”>
